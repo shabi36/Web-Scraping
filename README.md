@@ -154,11 +154,3 @@ Here are some helpful resources to further expand your web scraping knowledge:
 - [Requests Documentation](https://requests.readthedocs.io/en/latest/)
 - [Python Official Documentation](https://docs.python.org/3/)
 
----
-
-## Contact
-
-For any questions or feedback, feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
-
